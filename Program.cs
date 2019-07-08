@@ -10,6 +10,13 @@ namespace StarFix
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Glant");
+
+            /*
+            block comment 
+            */
+
         }
     }
 }
